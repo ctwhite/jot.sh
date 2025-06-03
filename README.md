@@ -1,8 +1,8 @@
-# jot:: Bash Logger & Tracer
+# jot Bash Logger & Tracer
 
 **A comprehensive and highly configurable logging and tracing library for Bash scripts.**
 
-`jot::` provides a robust set of features to enhance your Bash scripts with flexible logging, detailed tracebacks, and useful debugging utilities. It aims to bring sophisticated logging capabilities, commonly found in other languages, to the Bash scripting environment.
+`jot` provides a robust set of features to enhance your Bash scripts with flexible logging, detailed tracebacks, and useful debugging utilities. It aims to bring sophisticated logging capabilities, commonly found in other languages, to the Bash scripting environment.
 
 ## Features
 
